@@ -18,7 +18,7 @@ Your markup, your design, your opinions | *our math*.
   for help with earlier versions of Susy.
 
 
-Contents
+目录
 --------
 
 .. toctree::
@@ -34,7 +34,7 @@ Contents
    changelog
 
 
-ToDo
+ToDo未完成部分
 ----
 
 These are the features we're working on next:
