@@ -82,10 +82,7 @@ or locally
 or create individual layout maps
 to access as needed.
 
-For global settings,
-create a ``$susy`` variable
-with any values that you need.
-
+想全局设置，只需定义一个变量``$susy``,格式如下
 .. code-block:: scss
 
   $susy: (
