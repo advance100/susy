@@ -22,6 +22,7 @@ Your markup, your design, your opinions | *our math*.
    :maxdepth: 1
 
    install
+   安装
    settings
    shorthand
    toolkit
