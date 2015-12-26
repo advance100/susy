@@ -5,6 +5,13 @@
 .. danger::
    这里小心!
 
+.. image:: imgs/abc.jpg
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+
 The new syntax for Susy
 is based around a number of settings
 that can be written either as a Sass Map
