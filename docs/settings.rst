@@ -5,7 +5,16 @@
 .. danger::
    这里小心!
 
+怎么没反应
+
 .. image:: imgs/abc.jpg
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+
+.. image:: abc.jpg
    :height: 100px
    :width: 200 px
    :scale: 50 %
