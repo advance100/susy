@@ -1,11 +1,8 @@
-Getting Started
-===============
+新手入门Getting Started
+==============================
 
-The only requirement is `Sass`_,
-but Susy was built to be part of the `Compass`_ ecosystem,
-and we recommend pairing with tools like
-`Breakpoint`_
-and `Vertical Rhythms`_.
+Susy其实只需要 `Sass`_ 就行,但是Susy已经是 `Compass`_ 的一部分,另外
+我们建议安装工具`Breakpoint`_和 `Vertical Rhythms`_.
 
 :doc:`susyone` 语法中，Compass仍是必需的.
 
