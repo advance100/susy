@@ -2,6 +2,9 @@
 ========
 
 .. 这里是注释
+.. DANGER::
+   这里小心!
+
 The new syntax for Susy
 is based around a number of settings
 that can be written either as a Sass Map
