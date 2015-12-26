@@ -82,7 +82,7 @@ or locally
 or create individual layout maps
 to access as needed.
 
-想全局设置，只需定义一个变量``$susy``,格式如下
+想全局设置，只需定义一个变量 ``$susy`` ,格式如下
 
 .. code-block:: scss
 
