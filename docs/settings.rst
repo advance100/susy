@@ -97,7 +97,7 @@ to access as needed.
 
 .. _settings-layout:
 
-Layout
+布局
 ------
 
 A "layout" in Susy is made up of any combination of settings.

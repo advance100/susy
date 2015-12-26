@@ -7,7 +7,7 @@ and we recommend pairing with tools like
 `Breakpoint`_
 and `Vertical Rhythms`_.
 
-Compass is still required for the :doc:`susyone` syntax.
+:doc:`susyone` 语法中，Compass仍是必需的.
 
 .. _Sass: http://sass-lang.com/
 .. _Compass: http://compass-style.org/
@@ -15,7 +15,7 @@ Compass is still required for the :doc:`susyone` syntax.
 .. _Vertical Rhythms: http://compass-style.org/reference/compass/typography/vertical_rhythm/
 
 
-Simple Install
+简单安装
 --------------
 
 .. code-block:: bash

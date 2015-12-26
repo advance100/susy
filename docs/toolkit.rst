@@ -1,5 +1,5 @@
-Toolkit
-=======
+工具包Toolkit
+==============
 
 The Susy 2.0 toolkit is built around
 our :doc:`shorthand syntax <shorthand>`.

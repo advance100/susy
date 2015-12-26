@@ -1,15 +1,14 @@
-Shorthand
-=========
+速记Shorthand
+==================
 
-Susy provides a shorthand syntax
-to easily pass arbitrary settings into functions and mixins.
+Susy使用了一种速记语法，这样很容易地向函数(function)和混合(mixin)传递任意数量的设置.
 This allows the syntax to stay simple and readable
 for the majority of use cases,
 and only add complexity if/when you really need it.
 
 .. code-block:: scss
 
-  // Establish an 80em container
+  // 生成一个宽度为80em的容器
   @include container(80em);
 
   // Span 3 of 12 columns
@@ -24,12 +23,10 @@ and only add complexity if/when you really need it.
 
 -------------------------------------------------------------------------
 
-Overview
---------
+概述Overview
+----------------
 
-In most cases, the syntax order is not important,
-but there are a few rules to get you started.
-The syntax generally breaks down into three parts.
+在大多数情况下，语法顺序并不重要，但有一些规则要注意。语法一般分为三个部分。
 
 .. describe:: syntax
 
@@ -108,8 +105,8 @@ The syntax generally breaks down into three parts.
 
 .. _shorthand-layout:
 
-Layout
-------
+布局Layout
+------------
 
 The simplest shorthand variation
 is used for defining your layout in broad terms.
