@@ -1,11 +1,11 @@
-Settings
+设置
 ========
 
 The new syntax for Susy
 is based around a number of settings
 that can be written either as a Sass Map
-or using a :doc:`shorthand syntax <shorthand>`.
-These two definitions are interchangeable:
+or using a :doc:`速记语法 <shorthand>`.
+这两种设置的方法是可以交替使用的:
 
 .. code-block:: scss
 
@@ -44,11 +44,10 @@ or locally
 
 .. _settings-global:
 
-Global Defaults
+全局默认配置
 ---------------
 
-Here are all the global Susy settings
-with their default values:
+下面是所有Susy的全局设置项及其默认值:
 
 .. code-block:: scss
 
@@ -79,7 +78,7 @@ with their default values:
     )
   );
 
-You can set your own global defaults,
+你可以定义自己的全局默认配置,
 or create individual layout maps
 to access as needed.
 

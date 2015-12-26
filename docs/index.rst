@@ -35,10 +35,10 @@ Your markup, your design, your opinions | *our math*.
 ToDo未完成部分
 ----
 
-These are the features we're working on next:
+下面是我们下一步的工作计划:
 
-- Add IE support to new syntax.
-- Move SusyOne syntax onto new math/output modules.
+- 新的语法中增加IE支持.
+- 将SusyOne方法移到新的数学/输出模块中.
 - Add padding/margin options to the ``span`` mixin, for simpler output.
 
 We're always happy to hear your ideas as well.
