@@ -2,7 +2,7 @@
 ========
 
 .. 这里是注释
-.. DANGER::
+.. danger::
    这里小心!
 
 The new syntax for Susy
