@@ -13,10 +13,7 @@ Your markup, your design, your opinions | *our math*.
 
 .. note::
 
-  These docs are focused on Susy |release|.
-  See the :doc:`susyone` documentation
-  for help with earlier versions of Susy.
-
+  这些文档是针对Susy |release|.如果想查看早期版本相关文档，请浏览 :doc:`susyone`
 
 目录
 --------
