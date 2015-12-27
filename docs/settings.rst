@@ -25,10 +25,8 @@
     debug output: background overlay,
   );
 
-The new syntax for Susy
-is based around a number of settings
-that can be written either as a Sass Map
-or using a :doc:`速记语法 <shorthand>`.
+Susy新的语法中，这个配置可以使用Sass Map来定义
+也可以使用 :doc:`速记语法 <shorthand>`.
 这两种设置的方法是可以交替使用的:
 
 .. code-block:: scss
