@@ -1,5 +1,5 @@
 =====================================
- An Introduction to reStructuredText
+ reStructuredText介绍
 =====================================
 :Author: David Goodger
 :Contact: docutils-develop@lists.sourceforge.net
@@ -40,7 +40,7 @@ http://docutils.sourceforge.net/rst.html.
 .. _Problems with StructuredText: ../../dev/rst/problems.html
 
 
-Goals
+目标
 =====
 
 The primary goal of reStructuredText_ is to define a markup syntax for
@@ -147,8 +147,8 @@ Author's note:
 .. _Doc-SIG: http://www.python.org/sigs/doc-sig/
 
 
-History
-=======
+发展历史
+==========
 
 reStructuredText_, the specification, is based on StructuredText_ and
 Setext_.  StructuredText was developed by Jim Fulton of `Zope
