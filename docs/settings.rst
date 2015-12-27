@@ -2,7 +2,7 @@
 ========
 
 .. 这里是注释
-.. danger::
+.. danger:: 重点
    请花10分记下这些配置
 
 .. code-block:: setting

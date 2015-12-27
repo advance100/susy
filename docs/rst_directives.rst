@@ -44,9 +44,9 @@ reStructuredText Directives`_.
    ../../howto/rst-directives.html
 
 
--------------
- Admonitions
--------------
+--------------------------
+ 提醒Admonitions
+--------------------------
 
 .. _attention:
 .. _caution:
@@ -58,16 +58,16 @@ reStructuredText Directives`_.
 .. _tip:
 .. _warning:
 
-Specific Admonitions
+具体Admonitions
 ====================
 
 :Directive Types: "attention", "caution", "danger", "error", "hint",
                   "important", "note", "tip", "warning", "admonition"
 :Doctree Elements: attention, caution, danger, error, hint, important,
                    note, tip, warning, admonition_, title
-:Directive Arguments: None.
+:Directive Arguments: 无.
 :Directive Options: `:class:`_, `:name:`_
-:Directive Content: Interpreted as body elements.
+:Directive Content: 解释为主体元素.
 
 Admonitions are specially marked "topics" that can appear anywhere an
 ordinary body element can.  They contain arbitrary body elements.
