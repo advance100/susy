@@ -29,6 +29,7 @@ Your markup, your design, your opinions | *our math*.
    upgrade
    diy
    changelog
+   tutorial
    rst_definition 
    rst_directives 
    rst_introduction 

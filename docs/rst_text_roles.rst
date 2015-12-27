@@ -12,13 +12,13 @@
 This document describes the interpreted text roles implemented in the
 reference reStructuredText parser.
 
-Interpreted text uses backquotes (`) around the text.  An explicit
-role marker may optionally appear before or after the text, delimited
-with colons.  For example::
+Interpreted text 使用反引号(`)包住文字,.  An explicit
+role marker may optionally appear before or after the text, 用冒号分隔.
+例如::
 
-    This is `interpreted text` using the default role.
+    这是使用默认角色的 `interpreted text` .
 
-    This is :title:`interpreted text` using an explicit role.
+    这是使用明确角色的 :title:`interpreted text` .
 
 A default role may be defined by applications of reStructuredText; it
 is used if no explicit ``:role:`` prefix or suffix is given.  The
@@ -42,11 +42,11 @@ Text Roles`_.
    ../../howto/rst-roles.html
 
 
-.. contents::
+.. 目录::
 
 
 ---------------
- Customization
+ 自定义
 ---------------
 
 Custom interpreted text roles may be defined in a document with the
@@ -61,9 +61,9 @@ directive`_ documentation.
 __ directives.html#role-class
 
 
-----------------
- Standard Roles
-----------------
+-------------------
+ 标准角色(Roles)
+-------------------
 
 ``:emphasis:``
 ==============
@@ -74,7 +74,7 @@ __ directives.html#role-class
     :Options: class_.
     :Content: None.
 
-Implements emphasis.  These are equivalent::
+实现强调.  下面这些是相等的::
 
     *text*
     :emphasis:`text`
@@ -89,7 +89,7 @@ Implements emphasis.  These are equivalent::
     :Options: class_.
     :Content: None.
 
-Implements inline literal text.  These are equivalent::
+Implements inline literal text.  下面这些是相等的::
 
     ``text``
     :literal:`text`
@@ -122,7 +122,7 @@ For syntax highlight of inline code, the `"role" directive`_ can be used to
 build custom roles with the code language specified in the "language"
 option.
 
-For example, the following creates a LaTeX-specific "latex" role::
+例如, the following creates a LaTeX-specific "latex" role::
 
   .. role:: latex(code)
      :language: latex
@@ -182,7 +182,7 @@ used.  For example::
 
     See :PEP:`287` for more information about reStructuredText.
 
-This is equivalent to::
+这与下面相等::
 
     See `PEP 287`__ for more information about reStructuredText.
 
@@ -200,13 +200,13 @@ This is equivalent to::
 
 The ``:rfc-reference:`` role is used to create an HTTP reference to an
 RFC (Internet Request for Comments).  The ``:RFC:`` alias is usually
-used.  For example::
+used.  例如::
 
     See :RFC:`2822` for information about email headers.
 
 This is equivalent to::
 
-    See `RFC 2822`__ for information about email headers.
+    详细了解邮件头请看 `RFC 2822`__ .
 
     __ http://www.faqs.org/rfcs/rfc2822.html
 
@@ -220,7 +220,7 @@ This is equivalent to::
     :Options: class_.
     :Content: None.
 
-Implements strong emphasis.  These are equivalent::
+强调.  下面是相等的::
 
     **text**
     :strong:`text`
