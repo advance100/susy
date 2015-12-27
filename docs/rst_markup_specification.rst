@@ -50,7 +50,7 @@ examples throughout this document, to illustrate the plaintext markup.
 
 
 -----------------------
- Quick Syntax Overview
+ 快速语法概述
 -----------------------
 
 A reStructuredText document is made up of body or block-level
@@ -205,7 +205,7 @@ as paragraphs, contain text and `inline markup`_ elements.
 
 
 ----------------
- Syntax Details
+ 语法细节
 ----------------
 
 Descriptions below list "doctree elements" (document tree element
@@ -215,8 +215,8 @@ Docutils Document Tree`_ and the `Docutils Generic DTD`_ XML document
 type definition.
 
 
-Whitespace
-==========
+空格(Whitespace)
+====================
 
 Spaces are recommended for indentation_, but tabs may also be used.
 Tabs will be converted to spaces.  Tab stops are at every 8th column.
@@ -225,8 +225,8 @@ Other whitespace characters (form feeds [chr(12)] and vertical tabs
 [chr(11)]) are converted to single spaces before processing.
 
 
-Blank Lines
------------
+空行(Blank Lines)
+----------------------
 
 Blank lines are used to separate paragraphs and other elements.
 Multiple successive blank lines are equivalent to a single blank line,
@@ -237,8 +237,8 @@ document is treated as if it is preceded by a blank line, and the last
 line of a document is treated as if it is followed by a blank line.
 
 
-Indentation
------------
+缩进(Indentation)
+----------------------
 
 Indentation is used to indicate -- and is only significant in
 indicating -- block quotes, definitions (in definition list items),
