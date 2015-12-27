@@ -61,7 +61,7 @@ contain further elements, such as lists containing list items, which
 in turn may contain paragraphs and other body elements.  Others, such
 as paragraphs, contain text and `inline markup`_ elements.
 
-Here are examples of `body elements`_:
+下面是一些 `body elements`_的例子:
 
 - Paragraphs_ (and `inline markup`_)::
 
@@ -75,7 +75,7 @@ Here are examples of `body elements`_:
 
       Paragraphs are separated by blank lines and are left-aligned.
 
-- Five types of lists:
+- 5种类型的列表:
 
   1. `Bullet lists`_::
 
@@ -151,7 +151,7 @@ Here are examples of `body elements`_:
       >>> print '(cut and pasted from interactive Python sessions)'
       (cut and pasted from interactive Python sessions)
 
-- Two syntaxes for tables_:
+- 表格的两种语法 tables_:
 
   1. `Grid tables`_; complete, but complex and verbose::
 
@@ -173,17 +173,15 @@ Here are examples of `body elements`_:
          ====================  ======================
 
 - `Explicit markup blocks`_ all begin with an explicit block marker,
-  two periods and a space:
+  两处句号(period)和一个空格(space):
 
   - Footnotes_::
 
-        .. [1] A footnote contains body elements, consistently
-           indented by at least 3 spaces.
+        .. [1] 一个脚注(footnote)包含一个主体元素(body elements), 缩进最少3个空格
 
   - Citations_::
 
-        .. [CIT2002] Just like a footnote, except the label is
-           textual.
+        .. [CIT2002] 引用(citation)和脚注(footnote)一样 , 除了label是文本.
 
   - `Hyperlink targets`_::
 
@@ -203,9 +201,7 @@ Here are examples of `body elements`_:
 
   - Comments_::
 
-        .. Comments begin with two dots and a space.  Anything may
-           follow, except for the syntax of footnotes/citations,
-           hyperlink targets, directives, or substitution definitions.
+        .. 注释以两个点和一个空格开头.  后面可以接除了footnotes/citations,hyperlink targets,directives,substitution definitions之外的任何内容
 
 
 ----------------
