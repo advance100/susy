@@ -30,6 +30,10 @@ Your markup, your design, your opinions | *our math*.
    diy
    changelog
    rst_definition 
+   rst_directives 
+   rst_introduction 
+   rst_markup_specification
+   rst_text_roles
 
 
 ToDo未完成部分
