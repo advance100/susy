@@ -12,7 +12,7 @@
 This document describes the directives implemented in the reference
 reStructuredText parser.
 
-Directives have the following syntax::
+指令使用以下的语法::
 
     +-------+-------------------------------+
     | ".. " | directive type "::" directive |
@@ -20,10 +20,10 @@ Directives have the following syntax::
             |                               |
             +-------------------------------+
 
-Directives begin with an explicit markup start (two periods and a
-space), followed by the directive type and two colons (collectively,
-the "directive marker").  The directive block begins immediately after
-the directive marker, and includes all subsequent indented lines.  The
+指令以一个显示标记(explicit markup)开始(两个句号和一个空格),
+接着是指令的类型和两个冒号(总体来说,
+叫做 "directive marker").  指令块立即接在directive marker后面, 
+and includes all subsequent indented lines.  The
 directive block is divided into arguments, options (a field list), and
 content (in that order), any of which may appear.  See the Directives_
 section in the `reStructuredText Markup Specification`_ for syntax
