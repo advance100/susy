@@ -3,22 +3,27 @@
 
 .. 这里是注释
 .. danger::
-   这里小心!
+   请花10分记下这些配置
 
+.. code-block:: setting
 
-.. image:: imgs/abc.jpg
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
-
-.. image:: abc.jpg
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+  $susy-keywords: (
+    container: auto,
+    math: static fluid,
+    output: isolate float,
+    container-position: left center right,
+    flow: ltr rtl,
+    gutter-position: before after split inside inside-static,
+    box-sizing: border-box content-box,
+    span: full,
+    edge: first alpha last omega full,
+    spread: narrow wide wider,
+    gutter-override: no-gutters no-gutter,
+    role: nest,
+    clear: break nobreak,
+    debug image: show hide show-columns show-baseline,
+    debug output: background overlay,
+  );
 
 The new syntax for Susy
 is based around a number of settings
