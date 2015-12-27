@@ -29,6 +29,7 @@ Your markup, your design, your opinions | *our math*.
    upgrade
    diy
    changelog
+   rst_definition 
 
 
 ToDo未完成部分

@@ -5,7 +5,6 @@
 .. danger::
    这里小心!
 
-怎么没反应
 
 .. image:: imgs/abc.jpg
    :height: 100px
