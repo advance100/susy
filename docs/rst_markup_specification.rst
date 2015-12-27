@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
-
+.. Markup Specification 标记规范
 =======================================
- reStructuredText Markup Specification
+ reStructuredText标记规范 
 =======================================
 
 :Author: David Goodger
